@@ -1,0 +1,29 @@
+{
+  "name": "my-glamm-clone",
+  "version": "1.0.0",
+  "description": "This is our Second project at masai school construct week after learning HTML,CSS & JAVASCRIPT",
+  "main": "src/index.js",
+  "server": "nodemon src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sourav12061999/my-glamm-clone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sourav12061999/my-glamm-clone/issues"
+  },
+  "homepage": "https://github.com/Sourav12061999/my-glamm-clone#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.1.2",
+    "passport": "^0.5.0",
+    "passport-google-oauth": "^2.0.0",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {}
+}
