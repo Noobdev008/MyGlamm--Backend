@@ -5,16 +5,21 @@ This is our Second project at masai school construct week after learning HTML,CS
 ## Contributors
 
 The main Contributors for this project are 
+ - Shubham Srivastava
  - Sourav Das
  - Sujit Kumar
  - Sarang Gunjal
- - Shubham Srivastava
- - Biswajit Biswal
+ - -Prajwal Rathod
+
+
 
  ## Tech Stack
  - HTML
  - CSS
  - Java Script
+ - Node.js
+ - Express
+ - MongoDB
 
 ## Description
 
