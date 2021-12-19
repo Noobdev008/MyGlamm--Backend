@@ -1,0 +1,51 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#pdata
+{
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+    width: 90%;
+    gap: 2%;
+    margin-top: 1%;
+    margin-left: 10%;
+}
+#pdata > div
+{
+    height: fit-content;
+    width: 60%;
+    padding-right: 15%;
+    padding-left: 15%;
+    border: 2px solid rgb(208, 207, 207);
+}
+#pdata > div > div
+{
+    height: 170px;
+    width: 100%;
+    overflow: hidden;
+    padding-top: 3%;
+}
+#pdata > div > div > img
+{
+    height: 80%;
+    width: 80%;
+    margin-left: 10%;
+}
+#pdata > div > p 
+{
+    font-weight: bolder;
+    font-size: 12pt;
+}
+#categoryheading
+{
+    padding-top: 10%;
+    margin-left: 45%;
+    width: fit-content;
+    height: 60px;
+    border-bottom: 13px solid rgb(247, 143, 195);
+}
+#categoryheading > p
+{
+    font-size: 25pt;
+    font-weight: bolder;
+}

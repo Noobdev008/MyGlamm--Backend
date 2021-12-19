@@ -1,0 +1,63 @@
+#container
+{
+    background-color: rgb(255, 255, 255);
+    width: 90%;
+    height: 21%;
+    margin-left: 5%;
+    margin-top: -0.7%;
+    position: fixed;
+    border-bottom: 1px solid rgb(152, 143, 143);
+}
+#Main,#Main1
+{
+    display: flex;
+}
+#img1
+{
+    height: 45%;
+    width: 70%;
+    margin-left: 33%;
+    margin-top: 50px;
+}
+#img2
+{
+    height: 30px;
+    width: 30px;
+    margin-top: 50px;
+    margin-left: 60px;
+}
+#img3
+{
+    height: 30px;
+    width: 30px;
+    margin-top: 50px;
+    margin-left: 40px;
+}
+#txt1
+{
+   width: 400px;
+   height: 40px;
+   background-color: rgb(233, 220, 220);
+   border-radius: 5px;
+   margin-left: 50px;
+    margin-top: 50px;
+}
+.btn1
+{
+    width: 130px;
+    border: 1px solid black;
+    border-radius: 19px;
+    background-color: white;
+    height: 30px;
+    margin-left: 200px;
+    margin-top: 50px;
+    height: 40px;
+}
+#home
+{
+    margin-left: 85px;
+}
+#makeup,#haircare,#skincare,#sant,#collection,#glam,#rewards,#offers
+{
+    margin-left: 50px;
+}
